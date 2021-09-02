@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/dino.gif )
+![image](https://github.com/dummy-co-der/dummy-co-der/blob/main/dino.gif)
 
 
