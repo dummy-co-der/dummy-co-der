@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm##Anuj Maheshwari
+### Hi there 👋, I'm
+## Anuj Maheshwari
+# I am 2nd year B.Tech Undergraduate Student from Guru Gobind Singh Indraprastha University, New Delhi
 
 <!--
 **dummy-co-der/dummy-co-der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
