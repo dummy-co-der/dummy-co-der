@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone👋, I'm Anuj Maheshwari</h1>
-<h2 aligh="center">I am 2nd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/">GGS Indraprastha University , New Delhi</a></h2>
+<h2 aligh="center">I am 2nd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/">GGS Indraprastha University </a></h2>
 <h3 align="center">A passionate about Web Development and Pen-Testing.</h3>
 
 - 🔭 I’m currently working on **Programming and Pen Testing.**
