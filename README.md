@@ -23,7 +23,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=dummy-co-der&show_icons=true alt=infinity /> </p>
 
 <!--
 **dummy-co-der/dummy-co-der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
