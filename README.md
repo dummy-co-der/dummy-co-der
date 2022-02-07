@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Bug Hunting and Pen Testing.**
 
-- 🌱 I’m currently learning **C++,C,PHP, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap,reactjs).**
+- 🌱 I’m good at **C++,C,PHP, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap,reactjs).**
 
-- 👯 I’m looking to collaborate as **Pen Tester**
+- 👯 I’m looking to contribute and work in **Pen Testing and Bug Hunting**
 
-- 💬 Ask me about **Web development,Programming and other regarding Technology.**
+- 💬 Ask me about **Web development, Programming and other regarding Technology.**
 
 - 📫 How to reach me **maheshwarianuj1001@gmail.com**
 
