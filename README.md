@@ -2,7 +2,7 @@
 <h2 aligh="center">I am 2nd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/">GGSIPU , Delhi</a></h2>
 <h3 align="center">A passionate about Web Development and Pen-Testing.</h3>
 
-- 🔭 I’m currently working on **Programming and Pen Testing.**
+- 🔭 I’m currently working on **Bug Hunting and Pen Testing.**
 
 - 🌱 I’m currently learning **C++,C,PHP, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap,reactjs).**
 
