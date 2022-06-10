@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Bug Hunting and Pen Testing.**
 
-- 🌱 I’m good at **C++,C,PHP, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap,reactjs).**
+- 🌱 I’m good at **C++,C, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap,reactjs).**
 
 - 👯 I’m looking to contribute and work in **Pen Testing and Bug Hunting**
 
