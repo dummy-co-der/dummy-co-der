@@ -64,11 +64,11 @@
 <h3 align="center"><img src="statistics.gif" width="35" height="30"> Tech Stack </h3>
 
 <p align="center"><img
-        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true">
+        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true" width="450px">
 </p>
 
 <p align="center"> <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-co-der&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-co-der&hide=makefile&&count_private=true&layout=compact&show_icons=true" width="450px">
 
 </p>
 
