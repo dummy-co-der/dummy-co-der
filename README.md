@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I'm Anuj Maheshwari 👋</h1>
 
-<p align="center"> <br><img src="anuj.gif" width="450px"><br></p>
+<p align="center"> <br><img src="anuj.gif" width="400px"><br></p>
 <p aligh="center">Am a 3rd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/"> GGSIPU</a> Delhi.
     Aspiring and ardent, seeking an intern opportunity to continually contribute fair skills in order to present better
     solutions. Constantly striving to improve and learn something new through peers and other avenues.
