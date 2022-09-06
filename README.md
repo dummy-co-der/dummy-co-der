@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I'm Anuj Maheshwari 👋</h1>
 
-<p align="center"> <br><img src="anuj.gif" width="400px"><br></p>
+<p align="center"> <br><img src="Images/anuj.gif" width="400px"><br></p>
 <p aligh="center">Am a 3rd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/"> GGSIPU</a> Delhi.
     Aspiring and ardent, seeking an intern opportunity to continually contribute fair skills in order to present better
     solutions. Constantly striving to improve and learn something new through peers and other avenues.
@@ -18,23 +18,29 @@
 
 - 📫 To know more about me, mail me at **maheshwarianuj1001@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
+    <a href="https://medium.com/@maheshwarianuj1001" target="blank"><img align="center"
+            src="Images/medium.svg"
+            alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://twitter.com/Anuj_Maheshwri" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            src="Images/twitter.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/anuj1001/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="Images/linkedin.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.instagram.com/_anuj._.maheshwari_/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="Images/instagram.svg"
+            alt="Anuj_Maheshwri" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/anuj.maheshwari.714/" target="blank"><img align="center"
+            src="Images/facebook.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/ia_anuj_10" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Anuj_Maheshwri" height="30"
             width="40" /></a>
 </p>
 
-<h3 align="center"><img src="language.gif" width="28" /> Languages and Tools </h3>
+<h3 align="center"><img src="Images/language.gif" width="28" /> Languages and Tools </h3>
 <p align="center">
     <a href="https://www.linux.org/"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
@@ -79,7 +85,7 @@
             alt="photoshop" width="40" height="40" /> </a>
 </p>
 
-<h3 align="center"><img src="statistics.gif" width="35" height="30"> Tech Stack </h3>
+<h3 align="center"><img src="Images/statistics.gif" width="35" height="30"> Tech Stack </h3>
 
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&hide=issues&include_all_commits=true"
