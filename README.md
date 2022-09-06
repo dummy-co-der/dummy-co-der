@@ -32,12 +32,13 @@
     <a href="https://www.codechef.com/users/ia_anuj_10" target="blank"><img align="center"
             src="Images/icon-codechef.svg" alt="Anuj_Maheshwri" height="30"
             width="40" /></a>
-    <a href="https://twitter.com/Anuj_Maheshwri" target="blank"><img align="center"
-            src="Images/twitter.svg"
-            alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.facebook.com/anuj.maheshwari.714/" target="blank"><img align="center"
             src="Images/facebook.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
+    <a href="https://twitter.com/Anuj_Maheshwri" target="blank"><img align="center"
+            src="Images/twitter.svg"
+            alt="Anuj_Maheshwri" height="30" width="40" /></a>
+
 
 </p>
 
