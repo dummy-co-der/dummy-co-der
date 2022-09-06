@@ -21,23 +21,24 @@
 <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
     <a href="https://medium.com/@maheshwarianuj1001" target="blank"><img align="center"
-            src="Images/medium.svg"
-            alt="Anuj_Maheshwri" height="30" width="40" /></a>
-    <a href="https://twitter.com/Anuj_Maheshwri" target="blank"><img align="center"
-            src="Images/twitter.svg"
-            alt="Anuj_Maheshwri" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/anuj1001/" target="blank"><img align="center"
-            src="Images/linkedin.svg"
+            src="Images/icon-medium.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.instagram.com/_anuj._.maheshwari_/" target="blank"><img align="center"
             src="Images/instagram.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/anuj1001/" target="blank"><img align="center"
+            src="Images/linkedin.svg"
+            alt="Anuj_Maheshwri" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/ia_anuj_10" target="blank"><img align="center"
+            src="Images/icon-codechef.svg" alt="Anuj_Maheshwri" height="30"
+            width="40" /></a>
+    <a href="https://twitter.com/Anuj_Maheshwri" target="blank"><img align="center"
+            src="Images/twitter.svg"
+            alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.facebook.com/anuj.maheshwari.714/" target="blank"><img align="center"
             src="Images/facebook.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/ia_anuj_10" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Anuj_Maheshwri" height="30"
-            width="40" /></a>
+
 </p>
 
 <h3 align="center"><img src="Images/language.gif" width="28" /> Languages and Tools </h3>
