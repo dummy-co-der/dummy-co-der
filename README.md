@@ -18,7 +18,7 @@
 
 - 📫 To know more about me, mail me at **maheshwarianuj1001@gmail.com**
 
-
+<br>
 <h3 align="center"><img src="Images/language.gif" width="28" /> Languages and Tools </h3>
 <p align="center">
     <a href="https://www.linux.org/"> <img
@@ -64,26 +64,30 @@
             alt="photoshop" width="40" height="40" /> </a>
 </p>
 
+
+<br>
 <h3 align="center"><img src="Images/statistics.gif" width="35" height="30"> Tech Stack </h3>
 <table>
 <!-- <p align="center"> -->
   <tr>
       <td>
     <img
-        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&hide=issues&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true"
         width="450px">
       </td>
 <!-- </p> -->
 <!-- <p align="center">  -->
       <td>  
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-co-der&hide=makefile&&count_private=true&layout=compact&show_icons=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der"
         width="450px">
       </td>
   </tr>
 <!-- </p> -->
-    
 </table>
+
+
+<br>
 <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
     <a href="https://medium.com/@maheshwarianuj1001" target="blank"><img align="center"
@@ -112,7 +116,7 @@
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-co-der&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true) -->
-
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical -->
 <!-- https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true>
 
 <1-- https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-co-der&hide=makefile&&count_private=true&layout=compact&show_icons=true>
