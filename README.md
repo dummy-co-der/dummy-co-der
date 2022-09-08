@@ -65,18 +65,25 @@
 </p>
 
 <h3 align="center"><img src="Images/statistics.gif" width="35" height="30"> Tech Stack </h3>
-
-<p align="center"><img
+<table>
+<!-- <p align="center"> -->
+  <tr>
+      <td>
+    <img
         src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&hide=issues&include_all_commits=true"
         width="450px">
-</p>
-
-<p align="center"> <img
+      </td>
+<!-- </p> -->
+<!-- <p align="center">  -->
+      <td>  
+    <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-co-der&hide=makefile&&count_private=true&layout=compact&show_icons=true"
         width="450px">
-
-</p>
-
+      </td>
+  </tr>
+<!-- </p> -->
+    
+</table>
 <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
     <a href="https://medium.com/@maheshwarianuj1001" target="blank"><img align="center"
