@@ -79,7 +79,7 @@
 <!-- <p align="center">  -->
       <td>  
     <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical"
         width="450px">
       </td>
   </tr>
