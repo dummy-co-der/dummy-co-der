@@ -72,14 +72,14 @@
   <tr>
       <td>
     <img
-        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
         width="450px">
       </td>
 <!-- </p> -->
 <!-- <p align="center">  -->
       <td>  
     <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical"
         width="450px">
       </td>
   </tr>
