@@ -90,7 +90,7 @@
 <br>
 <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
-    <a href="https://medium.com/@maheshwarianuj1001" target="blank"><img align="center"
+    <a href="https://medium.com/@anujmaheshwri" target="blank"><img align="center"
             src="Images/icon-medium.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.instagram.com/_anuj._.maheshwari_/" target="blank"><img align="center"
