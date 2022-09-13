@@ -105,7 +105,7 @@
     <a href="https://www.facebook.com/anuj.maheshwari.714/" target="blank"><img align="center"
             src="Images/facebook.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
-    <a href="https://twitter.com/Anuj_Maheshwri" target="blank"><img align="center"
+    <a href="https://twitter.com/anujmaheshwri" target="blank"><img align="center"
             src="Images/twitter.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
 
