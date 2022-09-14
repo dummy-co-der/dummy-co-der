@@ -68,23 +68,18 @@
 <br>
 <h3 align="center"><img src="Images/statistics.gif" width="35" height="30"> Tech Stack </h3>
 <table>
-<!-- <p align="center"> -->
   <tr>
       <td>
-<!--    <img
+    <img
         src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
         width="450px">
-        -->
       </td>
-<!-- </p> -->
-<!-- <p align="center">  -->
       <td>  
     <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical"
         width="450px">
       </td>
   </tr>
-<!-- </p> -->
 </table>
 
 
