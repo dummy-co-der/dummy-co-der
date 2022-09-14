@@ -71,9 +71,10 @@
 <!-- <p align="center"> -->
   <tr>
       <td>
-    <img
+<!--    <img
         src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
         width="450px">
+        -->
       </td>
 <!-- </p> -->
 <!-- <p align="center">  -->
