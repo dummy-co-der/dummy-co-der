@@ -92,7 +92,7 @@
     <a href="https://www.instagram.com/_anuj._.maheshwari_/" target="blank"><img align="center"
             src="Images/instagram.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/anuj1001/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/anujmaheshwri" target="blank"><img align="center"
             src="Images/linkedin.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/ia_anuj_10" target="blank"><img align="center"
