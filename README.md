@@ -76,7 +76,6 @@
 </p>
 
 
-<br>
 <h3 align="center"><img src="Images/statistics.gif" width="35" height="30"> Tech Stack </h3>
 <table>
   <tr>
@@ -94,7 +93,6 @@
 </table>
 
 
-<br>
 <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
     <a href="https://medium.com/@anujmaheshwri" target="blank"><img align="center"
@@ -115,7 +113,6 @@
     <a href="https://twitter.com/anujmaheshwri" target="blank"><img align="center"
             src="Images/twitter.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
-
 
 </p>
 
