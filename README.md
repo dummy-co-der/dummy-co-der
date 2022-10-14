@@ -1,4 +1,9 @@
+<img src="https://komarev.com/ghpvc/?username=dummy-co-der&label=Profile%20views&color=0e75b6&style=flat"> 
+
 <h1 align="center">Hello Everyone, I'm Anuj Maheshwari 👋</h1>
+
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anujmaheshwri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anujmaheshwri) >
 
 <p align="center"> <br><img src="Images/anuj.gif" width="400px"><br></p>
 <p aligh="center">Am a 3rd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/"> GGSIPU</a> Delhi.
