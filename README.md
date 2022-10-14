@@ -1,11 +1,13 @@
 <img src="https://komarev.com/ghpvc/?username=dummy-co-der&label=Profile%20views&color=0e75b6&style=flat"> 
 
-<h1 align="center">Hello Everyone, I'm Anuj Maheshwari 👋</h1>
+<!-- <h1 align="center">Hello Everyone!! </h1> -->
 
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=30&lines=Hello+Everyone+👋,+I'm+Anuj;+An+Ethical+Hacker+🛠;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;+An+Open+Source+Enthusiast+☀">
+</p>
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anujmaheshwri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anujmaheshwri) -->
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anujmaheshwri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anujmaheshwri) >
-
-<p align="center"> <br><img src="Images/anuj.gif" width="400px"><br></p>
+<p align="center"> <img src="Images/anuj.gif" width="400px"><br></p>
 <p aligh="center">Am a 3rd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/"> GGSIPU</a> Delhi.
     Aspiring and ardent, seeking an intern opportunity to continually contribute fair skills in order to present better
     solutions. Constantly striving to improve and learn something new through peers and other avenues.
@@ -24,6 +26,10 @@
 - 📫 To know more about me, mail me at **maheshwarianuj1001@gmail.com**
 
 <br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummy-co-der" alt="Anuj Maheshwari" /></a> </p>
+
+
 <h3 align="center"><img src="Images/language.gif" width="28" /> Languages and Tools </h3>
 <p align="center">
     <a href="https://www.linux.org/"> <img
