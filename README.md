@@ -12,8 +12,8 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anujmaheshwri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anujmaheshwri) -->
 
 
-> Am a 3rd-year B.Tech Undergraduate Student from <a href="http://www.ipu.ac.in/"> GGSIPU</a> Delhi.
-    An ambitious individual looking for opportunities to offer clients and employers improved solutions. <br>
+> Am a cybersec enthusiast pursuing my B.Tech from <a href="http://www.ipu.ac.in/"> GGSIPU,</a> New Delhi.
+    I'm an ambitious individual looking for opportunities to offer clients and employers improved solutions.
     Constantly striving to improve and learn something new through peers and other avenues.
    
 
