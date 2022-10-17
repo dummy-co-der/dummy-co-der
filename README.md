@@ -95,18 +95,18 @@
   <tr>
       <td>
     <img
-        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true&theme=radical"
         width="450px">
       </td>
       <td>  
     <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical"
         width="450px">
       </td>
   </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummy-co-der" alt="Anuj Maheshwari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummy-co-der&theme=radical" alt="Anuj Maheshwari" /></a> </p>
 
 <!-- <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
@@ -128,9 +128,8 @@
     <a href="https://twitter.com/anujmaheshwri" target="blank"><img align="center"
             src="Images/twitter.svg"
             alt="Anuj_Maheshwri" height="30" width="40" /></a>
+</p>-->
 
-</p>
--->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true) -->
 
 
