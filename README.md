@@ -26,7 +26,7 @@
 <a href="https://www.instagram.com/_anuj._.maheshwari_/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 </p>
 
-<h1> 👨🏻‍💻 About Me </h1>
+## 👨🏻‍💻 About Me 
 
 - 🌱 I'm good at **Pen Testing and Web Development.**
 
@@ -106,7 +106,18 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummy-co-der&theme=radical" alt="Anuj Maheshwari" /></a> </p>
+
+## 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+<!--<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>-->
+
+
+
+<!-- Comment Section -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummy-co-der&theme=radical" alt="Anuj Maheshwari" /></a> </p> -->
 
 <!-- <h3 align="center"><img src="Images/connect.gif" width="28" /> Connect with me </h3>
 <p align="center">
