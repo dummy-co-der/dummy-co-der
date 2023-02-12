@@ -1,49 +1,46 @@
-<img src="https://komarev.com/ghpvc/?username=dummy-co-der&label=Profile%20views&color=0e75b6&style=flat"> 
+<img src="https://komarev.com/ghpvc/?username=dummy-co-der&label=Profile%20views&color=0e75b6&style=flat">
 
 <p>
-  <img align="right" alt="GIF" src="Images/ReadMe.gif" width="150" height="100"/>
+    <img align="right" alt="GIF" src="Images/ReadMe.gif" width="150" height="100" />
 </p>
 
 <!-- <h1 align="center">Hello Everyone!! </h1> -->
 # Hi there, I'm Anuj 👋
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=30&lines=An+Ethical+Hacker+🛠;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;+An+Open+Source+Enthusiast+☀;+A+Learner+👨">
+<p align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=30&lines=An+Ethical+Hacker+🛠;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;+An+Open+Source+Enthusiast+☀;+A+Learner+👨">
 </p>
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anujmaheshwri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anujmaheshwri) -->
 
 
 > Am a cybersec enthusiast pursuing my B.Tech from <a href="http://www.ipu.ac.in/"> GGSIPU,</a> New Delhi.
-    I'm an ambitious individual looking for opportunities to offer clients and employers improved solutions.
-    Constantly striving to improve and learn something new through peers and other avenues.
-   
+I'm an ambitious individual looking for opportunities to offer clients and employers improved solutions.
+Constantly striving to improve and learn something new through peers and other avenues.
+
 
 <!-- - 🔭 I’m currently working on **Bug Hunting** and **Pen Testing.** -->
 <p align="end">
-<a href="https://twitter.com/anujmaheshwri" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
-<a href="https://medium.com/@anujmaheshwri"><img alt="Medium" src="https://img.shields.io/badge/medium-gray?style=flat-square&logo=medium"></a>
-<a href="https://www.linkedin.com/in/anujmaheshwri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://t.me/anujmaheshwri"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://www.instagram.com/_anuj._.maheshwari_/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+    <a href="https://twitter.com/anujmaheshwri" target="blank"><img alt="Twitter"
+            src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter" /></a>
+    <a href="https://medium.com/@anujmaheshwri"><img alt="Medium"
+            src="https://img.shields.io/badge/medium-gray?style=flat-square&logo=medium"></a>
+    <a href="https://www.linkedin.com/in/anujmaheshwri/"><img alt="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+    <a href="https://t.me/anujmaheshwri"><img alt="Telegram"
+            src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+    <a href="https://www.instagram.com/_anuj._.maheshwari_/"><img alt="Instagram"
+            src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 </p>
 
-## 👨🏻‍💻 About Me 
+## 👨🏻‍💻 About Me
 
 - 🌱 I'm good at **Pen Testing and Web Development.**
-
 - 🌐 Languages I know **C++, C, Python, Java, Linux, HTML, CSS, JS, jQuery, Bootstrap, reactjs.**
-
 - 👯 I’m looking to contribute and work in **Pen Testing** and **Bug Hunting**
-
 - 💬 Ask me about **Web development, Programming** and other **regarding Technology.**
-
 - 📫 To know more about me, mail me at **maheshwarianuj1001@gmail.com**
 
-<br>
-
-
-
-<h3 align="center"><img src="Images/language.gif" width="28" /> Languages and Tools </h3>
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.linux.org/"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
@@ -85,31 +82,121 @@
     <a href="https://www.photoshop.com/en"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="40" height="40" /> </a>
-</p>
-
-
-
+</p> -->
 <br>
-<h3 align="center"><img src="Images/statistics.gif" width="35" height="30"> Tech Stack </h3>
-<table>
-  <tr>
-      <td>
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true&theme=radical"
-        width="450px">
-      </td>
-      <td>  
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical"
-        width="450px">
-      </td>
-  </tr>
+
+## ⚙️ Languages & Tools 
+<!-- <h3 align="left"><img src="Images/language.gif" width="28" /> Languages and Tools </h3> -->
+<table align="left">
+    <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="75" height="75" />
+            <br> C++
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+            <br> Python
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
+            <br> Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br> HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br> CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br> Bootstrap
+        </td>
+      <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+                width="48" height="48" alt="Git" />
+            <br> Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+                width="48" height="48" alt="GitHub" />
+            <br> Github
+        </td>
+      <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48"
+                alt="Figma" />
+            <br> Figma
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                alt="Linux" width="48" height="48" />
+            <br> Linux
+        </td>
+        <td align="center" width="96">
+            <img src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4" alt="Wireshark" width="48"
+                height="48" />
+            <br> Wireshark
+        </td>
+        <td align="center" width="96">
+            <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="BUrpsuite" width="48"
+                height="48" />
+            <br> BurpSuite
+        </td>
+        <td align="center" width="96">
+            <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"
+                alt="Metasploit" width="48" height="48" />
+            <br> Metasploit
+        </td>
+        <td align="center" width="96">
+            <img src="https://www.pngfind.com/pngs/m/664-6646318_image-owasp-zap-logo-hd-png-download.png"
+                alt="OWASP ZAP" width="55" height="48" />
+            <br> OWASP ZAP
+        </td>
+        <td align="center" width="96">
+            <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="Cloud"
+                width="48" height="48" />
+            <br> Google Cloud
+        </td>
+      <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
+                width="48" height="48" alt="Postman" />
+            <br> Postman
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+            <br> MySQL
+        </td>
+       <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48"
+                alt="canva" />
+            <br> Canva
+        </td>
+    </tr>
 </table>
 
 
-## 🎧 Spotify Playing 
+<br><br><br><br><br><br><br><br><br><br><br>
+## 📊 GitHub Stats
+<!-- <h3 align="left"><img src="Images/statistics.gif" width="35" height="30"> GitHub Stats </h3> -->
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=dummy-co-der&count_private=true&show_icons=true&include_all_commits=true&theme=radical"
+                width="450px">
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=dummy-co-der&theme=radical" width="450px">
+        </td>
+    </tr>
+</table>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS?highlight=spotify:track:6VBhH7CyP56BXjp8VsDFPZ)<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<!-- ## 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS?highlight=spotify:track:6VBhH7CyP56BXjp8VsDFPZ)<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 
 <!--<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>-->
