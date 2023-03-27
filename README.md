@@ -36,7 +36,7 @@ Constantly striving to improve and learn something new through peers and other a
 
 - 🌱 I'm good at **Software Developer and Cybersecurity Enthusiast.**
 - 🌐 Languages I know **C++, C, Python, Java, Linux, HTML, CSS, JS, reactjs, nodejs, jQuery, Bootstrap.**
-- 👯 I’m looking to contribute and work as ** Software Developer**
+- 👯 I’m looking to contribute and work as **Software Developer**
 - 💬 Ask me about **Full Stack development, Programming** and other **regarding Technology.**
 - 📫 To know more about me, mail me at **maheshwarianuj1001@gmail.com**
 
