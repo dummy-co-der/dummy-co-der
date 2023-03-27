@@ -8,12 +8,12 @@
 # Hi there, I'm Anuj 👋
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=30&lines=An+Ethical+Hacker+🛠;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;+An+Open+Source+Enthusiast+☀;+A+Learner+👨">
+        src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=30&lines=A+Software+Developer+💻;+A+Problem+Solver+🕵;+An+Open+Source+Enthusiast+🛠;+A+Learner+👨">
 </p>
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anujmaheshwri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anujmaheshwri) -->
 
 
-> Am a cybersec enthusiast pursuing my B.Tech from <a href="http://www.ipu.ac.in/"> GGSIPU,</a> New Delhi.
+> Am a software developer & cybersecurity enthusiast pursuing my B.Tech from <a href="http://www.ipu.ac.in/"> GGSIPU,</a> New Delhi.
 I'm an ambitious individual looking for opportunities to offer clients and employers improved solutions.
 Constantly striving to improve and learn something new through peers and other avenues.
 
@@ -34,10 +34,10 @@ Constantly striving to improve and learn something new through peers and other a
 
 ## 👨🏻‍💻 About Me
 
-- 🌱 I'm good at **Pen Testing and Web Development.**
-- 🌐 Languages I know **C++, C, Python, Java, Linux, HTML, CSS, JS, jQuery, Bootstrap, reactjs.**
-- 👯 I’m looking to contribute and work in **Pen Testing** and **Bug Hunting**
-- 💬 Ask me about **Web development, Programming** and other **regarding Technology.**
+- 🌱 I'm good at **Software Developer and Cybersecurity Enthusiast.**
+- 🌐 Languages I know **C++, C, Python, Java, Linux, HTML, CSS, JS, reactjs, nodejs, jQuery, Bootstrap.**
+- 👯 I’m looking to contribute and work as ** Software Developer**
+- 💬 Ask me about **Full Stack development, Programming** and other **regarding Technology.**
 - 📫 To know more about me, mail me at **maheshwarianuj1001@gmail.com**
 
 <!-- <p align="center">
