@@ -113,7 +113,39 @@ Constantly striving to improve and learn something new through peers and other a
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
             <br> Bootstrap
         </td>
-      <td align="center" width="96">
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg"
+                width="48" height="48" alt="react-js" />
+            <br> ReactJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/redux-icon.svg"
+                width="48" height="48" alt="redux" />
+            <br> Redux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=express"
+                width="48" height="48" alt="express-js" />
+            <br> Express
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs"
+                width="48" height="48" alt="node-js" />
+            <br> NodeJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb"
+                width="48" height="48" alt="mongoDB" />
+            <br> MongoDB
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
+                width="48" height="48" alt="Postman" />
+            <br> Postman
+        </td>
+        <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
                 width="48" height="48" alt="Git" />
             <br> Git
@@ -123,13 +155,6 @@ Constantly striving to improve and learn something new through peers and other a
                 width="48" height="48" alt="GitHub" />
             <br> Github
         </td>
-      <td align="center" width="96">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48"
-                alt="Figma" />
-            <br> Figma
-        </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                 alt="Linux" width="48" height="48" />
@@ -151,23 +176,18 @@ Constantly striving to improve and learn something new through peers and other a
             <br> Metasploit
         </td>
         <td align="center" width="96">
-            <img src="https://www.pngfind.com/pngs/m/664-6646318_image-owasp-zap-logo-hd-png-download.png"
-                alt="OWASP ZAP" width="55" height="48" />
-            <br> OWASP ZAP
-        </td>
-        <td align="center" width="96">
             <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="Cloud"
                 width="48" height="48" />
             <br> Google Cloud
         </td>
-      <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
-                width="48" height="48" alt="Postman" />
-            <br> Postman
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+            <br> MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-            <br> MySQL
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48"
+                alt="Figma" />
+            <br> Figma
         </td>
        <td align="center" width="96">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48"
