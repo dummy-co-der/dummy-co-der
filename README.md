@@ -98,10 +98,6 @@ Constantly striving to improve and learn something new through peers and other a
             <br> Python
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
-            <br> Javascript
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
             <br> HTML
         </td>
@@ -110,8 +106,8 @@ Constantly striving to improve and learn something new through peers and other a
             <br> CSS
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-            <br> Bootstrap
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
+            <br> Javascript
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg"
@@ -141,6 +137,10 @@ Constantly striving to improve and learn something new through peers and other a
     </tr>
     <tr>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br> Bootstrap
+        </td>
+        <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
                 width="48" height="48" alt="Postman" />
             <br> Postman
@@ -160,11 +160,11 @@ Constantly striving to improve and learn something new through peers and other a
                 alt="Linux" width="48" height="48" />
             <br> Linux
         </td>
-        <td align="center" width="96">
+<!--         <td align="center" width="96">
             <img src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4" alt="Wireshark" width="48"
                 height="48" />
             <br> Wireshark
-        </td>
+        </td> -->
         <td align="center" width="96">
             <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="BUrpsuite" width="48"
                 height="48" />
@@ -183,11 +183,6 @@ Constantly striving to improve and learn something new through peers and other a
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
             <br> MySQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48"
-                alt="Figma" />
-            <br> Figma
         </td>
        <td align="center" width="96">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48"
