@@ -9,22 +9,21 @@
         src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=30&lines=A+Software+Developer+💻;+A+Problem+Solver+🕵;+An+Open+Source+Enthusiast+🛠;+A+Learner+👨">
 </p>
 
-> Am a software developer & cybersecurity enthusiast pursuing my B.Tech from <a href="http://www.ipu.ac.in/">
-    GGSIPU,</a> New Delhi.
-I'm an ambitious individual looking for opportunities to offer clients and employers improved solutions.
-Constantly striving to improve and learn something new through peers and other avenues.
+I am a technophile having erudition in Git and GitHub, Javascript, HTML, C++, CSS, Digital Marketing, MySQL, Python, Artificial Perspicacity, Machine Learning and some more stuff well a neophyte but an active learner with never give up attitude and currently endeavouring hands on Ethical Hacking and Devops.
+
+Beyond technical proficiency, I possess strong management and leadership skills, excel as an influential speaker, and actively contribute to debates and seminars.
 
 <p align="end">
     <a href="https://twitter.com/anujmaheshwri" target="blank"><img alt="Twitter"
-            src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter" /></a>
+            src="https://img.shields.io/badge/Twitter-gray?style=flat-square&logo=x" /></a>
     <a href="https://medium.com/@anujmaheshwri"><img alt="Medium"
-            src="https://img.shields.io/badge/medium-gray?style=flat-square&logo=medium"></a>
+            src="https://img.shields.io/badge/Medium-gray?style=flat-square&logo=medium"></a>
     <a href="https://www.linkedin.com/in/anujmaheshwri/"><img alt="LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
     <a href="https://t.me/anujmaheshwri"><img alt="Telegram"
-            src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+            src="https://img.shields.io/badge/Telegram-gray?style=flat-square&logo=telegram"></a>
     <a href="https://www.instagram.com/_anuj._.maheshwari_/"><img alt="Instagram"
-            src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+            src="https://img.shields.io/badge/Instagram-gray?style=flat-square&logo=instagram"></a>
 </p>
 
 ## 👨🏻‍💻 About Me
@@ -69,6 +68,10 @@ Constantly striving to improve and learn something new through peers and other a
             src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
     <a href="#"><img alt="Redux"
             src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="Jest"
+            src="https://img.shields.io/badge/Jest-20232a.svg?style=for-the-badge&logo=jest&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="playwright"
+            src="https://img.shields.io/badge/playwright-%010101.svg?style=for-the-badge&logo=playwright&logoColor=green"></a>
     <a href="#"><img alt="Django"
             src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
     <a href="#"><img alt="FastAPI"
